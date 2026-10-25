@@ -47,11 +47,11 @@ An artist and college art student
 </p>
 
 <p align="center">
-  <img width="400" src="">
+  <img width="300" src="https://github.com/TennaTVV/TennaTVV/blob/1302e4656f222d8f5446c60bed39bd6806e85f51/tumblr_a65d7c6bd2ff3ca2a1eabc38eedc0ac2_5de01f1a_100.gif">
 </p>
 
 <p align="center">
-  <img width="300" src="https://github.com/TennaTVV/TennaTVV/blob/1302e4656f222d8f5446c60bed39bd6806e85f51/tumblr_a65d7c6bd2ff3ca2a1eabc38eedc0ac2_5de01f1a_100.gif">
+  <img width="400" src="https://github.com/TennaTVV/TennaTVV/blob/de3963a3a1c19daaf54a4b6b6374663b1bbd8954/Untitled39_20261025025149.png">
 </p>
 
 <p align="center">
