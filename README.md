@@ -14,7 +14,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D22B2B&width=435&lines=ITS!!!!!!+TV!!!!!!+TIIIMEE!!!!!!!" /></a>
 
 <p align="center">
-  <img src=""/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTennaTVV&label=VIEWERS!!!!!&labelColor=%23d22b2b&countColor=%23d9e3f0&style=plastic&labelStyle=upper"/>
 </p>
 
 <p align="center"table>
